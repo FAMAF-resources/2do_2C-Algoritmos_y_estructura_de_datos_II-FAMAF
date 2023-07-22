@@ -1,28 +1,53 @@
-![GitHub Repo Size](https://img.shields.io/github/repo-size/FAMAF-resources/Template-repository)
+![GitHub Repo Size](https://img.shields.io/github/repo-size/FAMAF-resources/Algoritmos_y_estructura_de_datos_II-FAMAF)
 
-# Materia - FAMAF - Computacion
+# Algoritmos y Estructuras de Datos II - FAMAF - Computacion
 
-> Cuatrimestre
+> Segundo Año - 1° Cuatrimestre
 
-Necesita tener aprobada:
+## Correlativas para **cursar**
 
-- 1
+| Materia                             | Condición    |
+| ----------------------------------- | ------------ |
+| Introducción a los Algoritmos       | Aprobada     |
+| Algoritmos y Estructuras de Datos I | Regularizada |
 
-Es correlativa de:
+## Correlativas para **aprobar**
 
-- 1
+| Materia                             | Condición    |
+| ----------------------------------- | ------------ |
+| Introducción a los Algoritmos       | Aprobada     |
+| Algoritmos y Estructuras de Datos I | Aprobada     |
+
+## Es correlativa de:
+
+- Bases de Datos
+- Redes y Sistemas Distribuidos
+- Lógica
+- Lenguajes Formales y Computabilidad
+- Paradigmas de Programación
+- Ingeniería del Software I
 
 ## Clonar el repositorio
 
+> http
+
 ```bash
-git clone <repo-url>
+git clone https://github.com/FAMAF-resources/Algoritmos_y_estructura_de_datos_II-FAMAF.git
 ```
 
-# Contribuciones
+> ssh
 
-Cualquier persona puede realiza su aporte con apunte, libro, o actualizacion de este repositoro. Puede ser realizado por una pull request (PR) comunicarse con los administradores.
+```bash
+git clone git@github.com:FAMAF-resources/Algoritmos_y_estructura_de_datos_II-FAMAF.git
+```
+
+# ¿Cómo contribuir?
+
+Cualquier persona puede realizar su aporte, sea apunte, libro, o actualizacion de este repositoro.
+
+Puede ser realizado por una pull request (PR) o comunicándose con los administradores.
 
 # Contributors
-<a href="https://github.com/FAMAF-resources/Template-repository/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=FAMAF-resources/Template-repository"/>
+<a href="https://github.com/FAMAF-resources/Algoritmos_y_estructura_de_datos_II-FAMAF/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=FAMAF-resources/Algoritmos_y_estructura_de_datos_II-FAMAF"/>
 </a>
