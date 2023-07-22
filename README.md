@@ -48,6 +48,6 @@ Cualquier persona puede realizar su aporte, sea apunte, libro, o actualizacion d
 Puede ser realizado por una pull request (PR) o comunicándose con los administradores.
 
 # Contributors
-<a href="https://github.com/FAMAF-resources/Template-repository/graphs/contributors">
+<a href="https://github.com/FAMAF-resources/Algoritmos_y_estructura_de_datos_II-FAMAF/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=FAMAF-resources/Algoritmos_y_estructura_de_datos_II-FAMAF"/>
 </a>
