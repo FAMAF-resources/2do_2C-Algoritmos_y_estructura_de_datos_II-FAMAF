@@ -29,19 +29,21 @@
 
 ## Clonar el repositorio
 
-> http
+**https**
 
 ```bash
-git clone https://github.com/FAMAF-resources/Algoritmos_y_estructura_de_datos_II-FAMAF.git
+git clone --recurse-submodules https://github.com/FAMAF-resources/Algoritmos_y_estructura_de_datos_II-FAMAF.git
 ```
 
-> ssh
+**ssh**
 
 ```bash
-git clone git@github.com:FAMAF-resources/Algoritmos_y_estructura_de_datos_II-FAMAF.git
+git clone --recurse-submodules git@github.com:FAMAF-resources/Algoritmos_y_estructura_de_datos_II-FAMAF.git
 ```
 
 # ¿Cómo contribuir?
+
+Este es un proyecto con fines de facilitar el acceso al material para estudio.
 
 Cualquier persona puede realizar su aporte, sea apunte, libro, o actualizacion de este repositoro.
 
@@ -49,5 +51,5 @@ Puede ser realizado por una pull request (PR) o comunicándose con los administr
 
 # Contributors
 <a href="https://github.com/FAMAF-resources/Algoritmos_y_estructura_de_datos_II-FAMAF/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=FAMAF-resources/Algoritmos_y_estructura_de_datos_II-FAMAF"/>
+  <img src="https://contrib.rocks/image?repo=FAMAF-resources/Algoritmos_y_estructura_de_datos_II-FAMAF" height=50/>
 </a>
