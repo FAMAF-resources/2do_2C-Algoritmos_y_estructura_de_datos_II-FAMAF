@@ -1,4 +1,4 @@
-![GitHub Repo Size](https://img.shields.io/github/repo-size/FAMAF-resources/Algoritmos_y_estructura_de_datos_II-FAMAF)
+![GitHub Repo Size](https://img.shields.io/github/repo-size/FAMAF-resources/2do_2C-Algoritmos_y_estructura_de_datos_II-FAMAF)
 
 # Algoritmos y Estructuras de Datos II - FAMAF - Computacion
 
@@ -32,13 +32,19 @@
 **https**
 
 ```bash
-git clone --recurse-submodules https://github.com/FAMAF-resources/Algoritmos_y_estructura_de_datos_II-FAMAF.git
+git clone --recurse-submodules https://github.com/FAMAF-resources/2do_2C-Algoritmos_y_estructura_de_datos_II-FAMAF.git
 ```
 
 **ssh**
 
 ```bash
-git clone --recurse-submodules git@github.com:FAMAF-resources/Algoritmos_y_estructura_de_datos_II-FAMAF.git
+git clone --recurse-submodules git@github.com:FAMAF-resources/2do_2C-Algoritmos_y_estructura_de_datos_II-FAMAF.git
+```
+
+## Update
+
+```bash
+git pull && git submodule update --init --recursive
 ```
 
 # ¿Cómo contribuir?
@@ -50,6 +56,6 @@ Cualquier persona puede realizar su aporte, sea apunte, libro, o actualizacion d
 Puede ser realizado por una pull request (PR) o comunicándose con los administradores.
 
 # Contributors
-<a href="https://github.com/FAMAF-resources/Algoritmos_y_estructura_de_datos_II-FAMAF/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=FAMAF-resources/Algoritmos_y_estructura_de_datos_II-FAMAF" height=50/>
+<a href="https://github.com/FAMAF-resources/2do_2C-Algoritmos_y_estructura_de_datos_II-FAMAF/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=FAMAF-resources/2do_2C-Algoritmos_y_estructura_de_datos_II-FAMAF" height=50/>
 </a>
