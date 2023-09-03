@@ -55,6 +55,10 @@ Cualquier persona puede realizar su aporte, sea apunte, libro, o actualizacion d
 
 Puede ser realizado por una pull request (PR) o comunicándose con los administradores.
 
+# Nuestra comunidad
+
+[Sobre nosotros](https://github.com/FAMAF-resources/.github/tree/main/profile/README.md)
+
 # Contributors
 <a href="https://github.com/FAMAF-resources/2do_2C-Algoritmos_y_estructura_de_datos_II-FAMAF/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=FAMAF-resources/2do_2C-Algoritmos_y_estructura_de_datos_II-FAMAF" height=50/>
