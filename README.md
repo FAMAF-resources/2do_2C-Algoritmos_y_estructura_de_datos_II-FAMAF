@@ -51,13 +51,15 @@ git pull && git submodule update --init --recursive
 
 Este es un proyecto con fines de facilitar el acceso al material para estudio.
 
-Cualquier persona puede realizar su aporte, sea apunte, libro, o actualizacion de este repositoro.
+Cualquier persona puede realizar su aporte con apunte, resumen, libro, o actualización de este repositorio.
 
-Puede ser realizado por una pull request (PR) o comunicándose con los administradores.
+Puede ser realizado por una pull request (PR), enviándo un email a recursos.estudio.estudiantes@gmail.com (indicar si quieres aportar de manera anónima, sin mención), o comunicándose con los administradores.
 
 # Nuestra comunidad
 
 [Sobre nosotros](https://github.com/FAMAF-resources/.github/tree/main/profile/README.md)
+
+[Materias LMA](https://github.com/FAMAF-resources/LMA_Materias-FAMAF)
 
 # Contributors
 <a href="https://github.com/FAMAF-resources/2do_2C-Algoritmos_y_estructura_de_datos_II-FAMAF/graphs/contributors">
